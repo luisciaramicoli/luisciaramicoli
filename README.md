@@ -1,53 +1,45 @@
-# 👋 Olá, eu sou o Luis Gustavo Bonfim Ciaramicoli!
+# 👋 Olá, eu sou o Luis Gustavo!
 
-### 🎯 Objetivo
-Busco minha primeira oportunidade de trabalho na área de informática e desenvolvimento de sistemas, aplicando conhecimentos adquiridos em minha formação e projetos práticos. Tenho como meta contribuir com soluções criativas e eficientes, crescer profissionalmente em tecnologia e explorar novos desafios, sempre em busca de excelência e inovação.
+### 🚀 Desenvolvedor Full-Stack | Estudante de Sistemas Inteligentes na Fatec
 
----
-
-### 🚀 Sobre Mim
-- 🎓 Técnico em Desenvolvimento de Sistemas pela **ETEC Prof. Massuyuki Kawano** (Concluído em 2024).
-- 💻 Experiência em **React**, **Next.js**, **JavaScript** e outras tecnologias de desenvolvimento web.
-- 🌟 Líder no projeto **Bengala Multissensorial**, que ajuda deficientes visuais com tecnologia avançada. Participação em eventos e entrevistas para redes de televisão como TV Tem, Band TV e Record.
-- 🧠 Habilidades: proatividade, empatia, trabalho em equipe, escuta ativa, e comprometimento.
+Sou um entusiasta de tecnologia apaixonado por resolver problemas reais através do código. Atualmente, foco em aperfeiçoar minhas habilidades em **Sistemas Inteligentes** e desenvolvimento **Full-Stack**, unindo hardware e software para criar impacto social.
 
 ---
 
-### 💡 Habilidades Técnicas
-- **Desenvolvimento Front-end**: React, Next.js, JavaScript
-- **Desenvolvimento Web e Mobile**: Experiência em sistemas e aplicativos durante a formação técnica
-- **Ferramentas e Tecnologias**: Informática avançada, redes sociais, e aplicativos de comunicação
+### 🧠 No que estou trabalhando?
+- 🎓 Cursando o 3º semestre de **Sistemas Inteligentes** na Fatec Shunji Nishimura.
+- 🌾 Desenvolvendo o **climAgro/CentralAgro**, uma IA especializada na análise de dados meteorológicos para o agronegócio.
+- 🦯 Liderando o projeto da **Bengala Multissensorial** (Destaque no G1 e redes de TV), focado em acessibilidade e sistemas embarcados.
 
 ---
 
-### 🎓 Educação
-- **Ensino Médio e Técnico em Desenvolvimento de Sistemas**
-  - **ETEC Prof. Massuyuki Kawano**, Tupã-SP
-  - Participação em congressos científicos (CICFAI) e eventos como Campus Party.
+### 🛠️ Toolbox Técnica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | React, Next.js, JavaScript (ES6+), Tailwind CSS |
+| **Back-end** | Node.js, FastAPI, Python |
+| **Hardware/IoT** | Arduino, ESP32, Sistemas Embarcados |
+| **Ferramentas** | Linux (Ubuntu/Pop!_OS), Git, Docker, Gemini API |
 
 ---
 
-### 📈 Projetos Notáveis
-- **Bengala Multissensorial**
-  - Líder do projeto que desenvolve soluções tecnológicas para deficientes visuais.
-  - Divulgado em eventos e entrevistas para redes de televisão.
+### 📊 Estatísticas e Métricas
+Aqui é onde o perfil ganha vida. (Veja as instruções abaixo para ativar os cards)
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisciaramicoli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisciaramicoli&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
 ---
 
-### 📞 Contato
-- **E-mail**: luisgustavobonfim996@gmail.com
-- **LinkedIn**: [luis-g-a22657283](https://www.linkedin.com/in/luis-g-a22657283)
-- **GitHub**: [luisciaramicoli](https://github.com/luisciaramicoli)
-- **Celular**: +55 (14) 99754-7353
+### 📫 Conecte-se comigo
+<p align="left">
+<a href="https://www.linkedin.com/in/luis-g-a22657283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-gustavo" height="30" width="40" /></a>
+<a href="mailto:luisgustavobonfim996@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+</p>
 
 ---
 
-### 🌟 Curiosidades
-- Sou apaixonado por aprender novas tecnologias e resolver problemas complexos.
-- Tenho determinação e persistência para alcançar as metas estabelecidas.
-
----
-
-Obrigado por visitar meu perfil! Vamos criar algo incrível juntos! 🚀
-
-
+> "Persistência e tecnologia podem transformar realidades." 🚀
