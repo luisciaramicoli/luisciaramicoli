@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Luis Gustavo!
+#  Olá, eu sou o Luis Gustavo!
 
-### 🚀 Desenvolvedor Full-Stack | Estudante de Sistemas Inteligentes na Fatec
+###  Desenvolvedor Full-Stack | Estudante de Sistemas Inteligentes na Fatec
 
 Sou um entusiasta de tecnologia apaixonado por resolver problemas reais através do código. Atualmente, foco em aperfeiçoar minhas habilidades em **Sistemas Inteligentes** e desenvolvimento **Full-Stack**, unindo hardware e software para criar impacto social.
 
