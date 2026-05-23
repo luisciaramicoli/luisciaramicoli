@@ -87,9 +87,6 @@ modo:      always_learning = true
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisciaramicoli&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=86efac" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisciaramicoli&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=86efac" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisciaramicoli&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=22c55e&fire=86efac&currStreakNum=4ade80&sideNums=4ade80&currStreakLabel=22c55e&sideLabels=86efac&dates=6b7280" />
