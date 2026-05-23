@@ -35,14 +35,14 @@ formação:  Sistemas Inteligentes — Fatec Shunji (3º sem)
 foco:      Mobile · Full-Stack · IoT · IA Aplicada
 projetos:  climAgro/CentralAgro  — IA para o agronegócio
            Bengala Multissensorial — destaque G1 & TV
-modo:      always_learning = true 🌱
+modo:      always_learning = true 
 ```
 
 <br/>
 
 ---
 
-## 🟢 Onde estou agora
+## Onde estou agora
 
 <table>
   <tr>
@@ -58,32 +58,32 @@ modo:      always_learning = true 🌱
 
 ---
 
-## 🛠️ Toolbox
+## Toolbox
 
 <div align="center">
 
 | Camada | Stack |
 |--------|-------|
-| 📱 **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| 🌐 **Front-end** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| ⚙️ **Back-end** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) |
-| 🔌 **Hardware & IoT** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
-| 🛸 **DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+|  **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+|  **Front-end** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+|  **Back-end** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) |
+|  **Hardware & IoT** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
+|  **DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
 ---
 
-## 🌟 Projetos em destaque
+##  Projetos em destaque
 
-| 🚀 Projeto | 💡 O que é | 🔧 Stack |
+|  Projeto |  O que é |  Stack |
 |---|---|---|
-| 🌾 **climAgro / CentralAgro** | IA especializada em análise meteorológica para o agronegócio brasileiro | Python · FastAPI · ML |
-| 🦯 **Bengala Multissensorial** | Dispositivo de acessibilidade com IoT · Destaque no **G1** e em redes de TV | C++ · ESP32 · Arduino |
+|  **climAgro / CentralAgro** | IA especializada em análise meteorológica para o agronegócio brasileiro | Python · FastAPI · ML |
+|  **Bengala Multissensorial** | Dispositivo de acessibilidade com IoT · Destaque no **G1** e em redes de TV | C++ · ESP32 · Arduino |
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -102,7 +102,7 @@ modo:      always_learning = true 🌱
 
 ---
 
-## 🏆 Conquistas
+##  Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luisciaramicoli&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" />
@@ -110,7 +110,7 @@ modo:      always_learning = true 🌱
 
 ---
 
-## 🐍 Contribuições
+##  Contribuições
 
 <div align="center">
   <picture>
@@ -120,7 +120,7 @@ modo:      always_learning = true 🌱
   </picture>
 </div>
 
-> ⚠️ Para a snake aparecer, [siga este tutorial](https://github.com/Platane/snk) para configurar a GitHub Action no seu repositório.
+>  Para a snake aparecer, [siga este tutorial](https://github.com/Platane/snk) para configurar a GitHub Action no seu repositório.
 
 ---
 
@@ -130,7 +130,7 @@ modo:      always_learning = true 🌱
 
 <br/><br/>
 
-> *"Persistência e tecnologia podem transformar realidades."* 🌱
+> *"Persistência e tecnologia podem transformar realidades."* 
 
 <br/>
 
