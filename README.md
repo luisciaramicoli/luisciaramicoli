@@ -12,7 +12,7 @@
   <a href="mailto:luisgustavobonfim996@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4ade80" alt="Email"/>
   </a>
-  <a href="https://luisciaramicoli.github.io/Portifolio/" target="_blank">
+  <a href="https://portifolio-gamma-three-98.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=react&logoColor=4ade80" alt="Portfólio"/>
   </a>
 </div>
