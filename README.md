@@ -100,19 +100,16 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=luisciaramicoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=a3a3a3" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisciaramicoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=a3a3a3" height="190" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=luisciaramicoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=a3a3a3" height="190" alt="GitHub Stats" />
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisciaramicoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=a3a3a3" height="190" alt="Top Languages" />
   
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisciaramicoli&theme=dark&hide_border=true&background=0d1117&stroke=4ade80&ring=22c55e&fire=22c55e&currStreakNum=4ade80&sideNums=a3a3a3&currStreakLabel=22c55e&sideLabels=a3a3a3&dates=6b7280" alt="GitHub Streak" />
-
-  <br><br>
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luisciaramicoli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4ade80&line=22c55e&point=86efac&area=true" alt="Activity Graph" />
 
 </div>
-
 
 ## Contribuições & Atividade
 
