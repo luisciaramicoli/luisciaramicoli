@@ -1,13 +1,12 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a2e16&height=250&section=header&text=Luis%20Gustavo%20Bonfim&fontSize=65&fontColor=4ade80&fontAlignY=35&desc=Innovation%20Intern%20%40%20Movement%20%7C%20Software%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22c55e&center=true&vCenter=true&width=720&lines=Construindo+solu%C3%A7%C3%B5es+inovadoras...;Innovation+Intern+%40+Movement+(Brudden);Desenvolvimento+Mobile+com+Flutter;Full-Stack+%7C+IoT+%7C+IA;Sistemas+Inteligentes+%E2%80%94+Fatec+Shunji" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22c55e&center=true&vCenter=true&width=720&lines=Construindo+solu%C3%A7%C3%B5es+inovadoras...;Innovation+Intern+%40+Movement+(Brudden);Desenvolvimento+Mobile+com+Flutter;Full-Stack+%7C+IoT+%7C+IA;Top+20+Nacional+%E2%80%94+Samsung+Solve+for+Tomorrow;Sistemas+Inteligentes+%E2%80%94+Fatec+Shunji" alt="Typing SVG" />
 
   <br><br>
 
-  <!-- Social Links -->
   <a href="https://www.linkedin.com/in/luis-g-a22657283" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4ade80&edge_badge=false" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4ade80" alt="LinkedIn"/>
   </a>
   <a href="mailto:luisgustavobonfim996@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4ade80" alt="Email"/>
@@ -15,39 +14,66 @@
   <a href="https://portifolio-gamma-three-98.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=react&logoColor=4ade80" alt="Portfólio"/>
   </a>
+ 
 </div>
 
-<br><br>
+<br>
 
-##  Sobre mim (`$ whoami`)
+##  Sobre mim
 
 <div align="center">
   <table>
     <tr>
-      <td width="70%" valign="middle" align="left">
+      <td width="65%" valign="middle" align="left">
 <pre lang="json">
 {
   "nome": "Luis Gustavo Bonfim",
   "idade": 19,
-  "formacao": "Sistemas Inteligentes - Fatec Shunji Nishimura (3º sem)",
+  "formacao": "Sistemas Inteligentes — Fatec Shunji Nishimura (3º sem)",
   "cargo_atual": "Estagiário em Inovação @ Movement (Brudden)",
   "foco": [
-    "Mobile (Flutter)", 
-    "Full-Stack", 
-    "IoT / Hardware", 
+    "Mobile (Flutter)",
+    "Full-Stack",
+    "IoT / Hardware",
     "Inteligência Artificial"
-  ]
+  ],
+  "diferencial": "Transformo problemas reais em produtos"
 }
 </pre>
       </td>
-      <td width="30%" align="center" valign="middle">
+      <td width="35%" align="center" valign="middle">
         <img width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
+
+##  O que me diferencia
+
+<div align="center">
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <b>Discovery</b><br/>
+      <sub>Transformo ideias vagas em requisitos claros antes de escrever a primeira linha de código</sub>
+    </td>
+    <td width="25%" align="center">
+      <b>Execução ponta a ponta</b><br/>
+      <sub>Da prototipação de hardware ao deploy de um app mobile — confortável em todas as camadas</sub>
+    </td>
+    <td width="25%" align="center">
+      <b>Resultado reconhecido</b><br/>
+      <sub>Projeto premiado nacionalmente e destaque em veículos de mídia (G1, TV TEM)</sub>
+    </td>
+    <td width="25%" align="center">
+      <b>Propósito</b><br/>
+      <sub>Foco em tecnologia assistiva e de impacto social real</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -60,7 +86,7 @@
       <sub><b>Estagiário em Inovação</b></sub>
     </td>
     <td>
-      Atualmente, faço <b>discovery de projetos</b> e atuo na prototipação e desenvolvimento de soluções mobile utilizando <b>Flutter</b>. O objetivo é transformar ideias complexas em produtos inovadores dentro do ecossistema de Health & Fitness da Movement.
+      Atuo em <b>discovery de projetos</b>, prototipação e desenvolvimento de soluções mobile com <b>Flutter</b>, transformando ideias complexas em produtos dentro do ecossistema de Health & Fitness da Movement (Brudden).
     </td>
   </tr>
 </table>
@@ -70,48 +96,35 @@
 ##  Tech Stack & Ferramentas
 
 <div align="center">
-  <p>As tecnologias e ferramentas que utilizo para transformar ideias em realidade:</p>
-  <br>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,ts,tailwind,css,html&perline=9" alt="Front-end and Mobile Skills" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,c,cpp,arduino,linux,git,docker&perline=9" alt="Backend and DevOps Skills" />
-  </a>
+  <p><b>Front-end & Mobile</b></p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,ts,tailwind,css,html&perline=9" alt="Front-end and Mobile Skills" />
+  <br><br>
+  <p><b>Back-end, IoT & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,c,cpp,arduino,linux,git,docker&perline=9" alt="Backend and DevOps Skills" />
 </div>
-
-<br>
 
 ---
 
 ##  Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **climAgro / CentralAgro** | Inteligência Artificial especializada em análise meteorológica e recomendações para o agronegócio. | `Python`, `FastAPI`, `React`, `LLMs` |
-| **Bengala Multissensorial (Canna)** | Dispositivo IoT de acessibilidade para deficientes visuais. Projeto com **destaque no G1 e TV TEM**. | `C++`, `ESP32`, `Arduino` |
-| **Samsung Solve for Tomorrow** | Reconhecimento Nacional - Top 20 no prêmio Samsung SFT com o projeto Bengala Canna. | `Inovação`, `Pitch`, `IoT` |
-
-<br>
+| Projeto | Descrição | Impacto | Tecnologias |
+|---------|-----------|---------|-------------|
+| **climAgro / CentralAgro** | IA especializada em análise meteorológica e recomendações para o agronegócio | Suporte à decisão para produtores rurais | `Python` `FastAPI` `React` `LLMs` |
+| **Bengala Multissensorial (Canna)** | Dispositivo IoT de acessibilidade para pessoas com deficiência visual | Destaque no **G1** e **TV TEM** | `C++` `ESP32` `Arduino` |
+| **Samsung Solve for Tomorrow** | Reconhecimento nacional — **Top 20** com o projeto Bengala Canna | Competição entre milhares de inscritos no Brasil | `Inovação` `Pitch` `IoT` |
 
 ---
 
-## GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
-  
   <img src="https://github-stats-extended.vercel.app/api?username=luisciaramicoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=a3a3a3" height="190" alt="GitHub Stats" />
-  
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisciaramicoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=a3a3a3" height="190" alt="Top Languages" />
-  
   <br><br>
-
-
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luisciaramicoli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4ade80&line=22c55e&point=86efac&area=true" alt="Activity Graph" />
-
 </div>
 
-## Contribuições & Atividade
+##  Contribuições & Atividade
 
 <div align="center">
   <p>Meu histórico de commits consumido por uma cobrinha!</p>
@@ -132,7 +145,7 @@
 
 <br><br>
 
-> *"A tecnologia só tem valor real quando transforma e melhora a vida das pessoas."* 
+> *"A tecnologia só tem valor real quando transforma e melhora a vida das pessoas."*
 
 <br>
 
