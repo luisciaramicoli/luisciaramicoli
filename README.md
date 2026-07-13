@@ -28,7 +28,7 @@
 <pre lang="json">
 {
   "nome": "Luis Gustavo Bonfim",
-  "idade": 20,
+  "idade": 19,
   "formacao": "Sistemas Inteligentes - Fatec Shunji Nishimura (3º sem)",
   "cargo_atual": "Estagiário em Inovação @ Movement (Brudden)",
   "foco": [
