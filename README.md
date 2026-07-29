@@ -86,7 +86,7 @@
       <sub><b>Estagiário em Inovação</b></sub>
     </td>
     <td>
-      Atuo em <b>discovery de projetos</b>, prototipação e desenvolvimento de soluções mobile com <b>Flutter</b>, transformando ideias complexas em produtos dentro do ecossistema de Health & Fitness da Movement (Brudden).
+      Atuo em <b>discovery de projetos</b>, prototipação e desenvolvimento de soluções mobile com <b>Flutter, Kotlin</b> e sites com <b>React, Node</b>, transformando ideias complexas em produtos dentro do ecossistema de Health & Fitness da Movement (Brudden).
     </td>
   </tr>
 </table>
