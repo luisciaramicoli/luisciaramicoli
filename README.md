@@ -29,7 +29,7 @@
 {
   "nome": "Luis Gustavo Bonfim",
   "idade": 19,
-  "formacao": "Sistemas Inteligentes — Fatec Shunji Nishimura (3º sem)",
+  "formacao": "Sistemas Inteligentes — Fatec Shunji Nishimura (4º sem)",
   "cargo_atual": "Estagiário em Inovação @ Movement (Brudden)",
   "foco": [
     "Mobile (Flutter)",
