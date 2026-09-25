@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a2e16&height=250&section=header&text=Luis%20Gustavo%20Bonfim%20Ciaramicoli&fontSize=65&fontColor=4ade80&fontAlignY=35&desc=Innovation%20Intern%20%40%20Movement%20%7C%20Software%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a2e16&height=250&section=header&text=Luis%20Gustavo%20Bonfim&fontSize=65&fontColor=4ade80&fontAlignY=35&desc=Innovation%20Intern%20%40%20Movement%20%7C%20Software%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22c55e&center=true&vCenter=true&width=720&lines=Construindo+solu%C3%A7%C3%B5es+inovadoras...;Innovation+Intern+%40+Movement+(Brudden);Desenvolvimento+Mobile+com+Flutter;Full-Stack+%7C+IoT+%7C+IA;Top+20+Nacional+%E2%80%94+Samsung+Solve+for+Tomorrow;Sistemas+Inteligentes+%E2%80%94+Fatec+Shunji" alt="Typing SVG" />
 
