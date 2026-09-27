@@ -31,7 +31,7 @@ Desenvolvedor Full-Stack de Tupã-SP, cursando **Sistemas Inteligentes na Fatec 
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [CentralAgro](https://github.com/luisciaramicoli/CentralAgro)
+### 🌾 CentralAgro
 SaaS de IA para o agronegócio: análise meteorológica, zoneamento e um assistente RAG sobre manuais de maquinário.
 
 - Microsserviços + RAG rodando em **um único nó Oracle Cloud Always Free** (4 OCPU ARM / 24 GB)
@@ -40,7 +40,7 @@ SaaS de IA para o agronegócio: análise meteorológica, zoneamento e um assiste
 
 `Python` `FastAPI` `LangChain` `Qdrant` `React 19` `Node.js` `Docker`
 
-📱 [App mobile](https://github.com/luisciaramicoli/CentralAgro-Mobile) · ⚙️ [API](https://github.com/luisciaramicoli/api_base-main)
+📱 [App mobile (Flutter)](https://github.com/luisciaramicoli/CentralAgro-Mobile)
 
 </td>
 <td width="50%" valign="top">
