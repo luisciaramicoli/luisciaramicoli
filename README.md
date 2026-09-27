@@ -17,11 +17,11 @@
 
 Desenvolvedor Full-Stack de Tupã-SP, cursando **Sistemas Inteligentes na Fatec Shunji Nishimura**. Construo sistemas na interseção entre **back-end, IA aplicada e hardware** — de pipelines RAG com bancos vetoriais a dispositivos IoT de acessibilidade.
 
-- 🏭 **Agora:** Estagiário em Inovação na **Movement (Brudden)** — discovery, prototipação e produto (Flutter, Kotlin, React, Node)
-- 🔬 **Antes:** Bolsista **FAPESP** — arquitetura de pipelines de cientometria e busca semântica em larga escala com **Qdrant**
-- 🌱 **Criando:** **CentralAgro**, SaaS de IA para o agronegócio
-- 🏆 **Reconhecimento:** Top 20 Nacional no **Samsung Solve for Tomorrow**, destaque no **G1**, **TV TEM** e **Campus Party**
-- 💬 **Fale comigo sobre:** RAG, LLMs, FastAPI, Flutter, sistemas embarcados e infra enxuta
+- **Agora:** Estagiário em Inovação na **Movement (Brudden)** — discovery, prototipação e produto (Flutter, Kotlin, React, Node)
+- **Antes:** Bolsista **FAPESP** — arquitetura de pipelines de cientometria e busca semântica em larga escala com **Qdrant**
+- **Criando:** **CentralAgro**, SaaS de IA para o agronegócio
+- **Reconhecimento:** Top 20 Nacional no **Samsung Solve for Tomorrow**, destaque no **G1**, **TV TEM** e **Campus Party**
+- **Fale comigo sobre:** RAG, LLMs, FastAPI, Flutter, sistemas embarcados e infra enxuta
 
 ---
 
@@ -31,7 +31,7 @@ Desenvolvedor Full-Stack de Tupã-SP, cursando **Sistemas Inteligentes na Fatec 
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 CentralAgro
+### CentralAgro
 SaaS de IA para o agronegócio: análise meteorológica, zoneamento e um assistente RAG sobre manuais de maquinário.
 
 - Microsserviços + RAG rodando em **um único nó Oracle Cloud Always Free** (4 OCPU ARM / 24 GB)
@@ -40,12 +40,12 @@ SaaS de IA para o agronegócio: análise meteorológica, zoneamento e um assiste
 
 `Python` `FastAPI` `LangChain` `Qdrant` `React 19` `Node.js` `Docker`
 
-📱 [App mobile (Flutter)](https://github.com/luisciaramicoli/CentralAgro-Mobile)
+[App mobile (Flutter)](https://github.com/luisciaramicoli/CentralAgro-Mobile)
 
 </td>
 <td width="50%" valign="top">
 
-### 🦯 Bengala Multissensorial (Canna)
+### Bengala Multissensorial (Canna)
 Dispositivo IoT de acessibilidade para pessoas com deficiência visual, com integração sensor-software e app companheiro.
 
 - **Top 20 Nacional** — Samsung Solve for Tomorrow
@@ -59,7 +59,7 @@ Dispositivo IoT de acessibilidade para pessoas com deficiência visual, com inte
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Busca Cientométrica](https://github.com/luisciaramicoli/busca-cientometrica)
+### [Busca Cientométrica](https://github.com/luisciaramicoli/busca-cientometrica)
 Pesquisa FAPESP: curadoria automatizada de artigos científicos e recuperação semântica com banco vetorial.
 
 `Python` `Qdrant` `LLMs` `JavaScript` · [API](https://github.com/luisciaramicoli/api-cientometria)
@@ -67,7 +67,7 @@ Pesquisa FAPESP: curadoria automatizada de artigos científicos e recuperação 
 </td>
 <td width="50%" valign="top">
 
-### 🧑‍💻 [Portfólio](https://github.com/luisciaramicoli/Portifolio)
+### [Portfólio](https://github.com/luisciaramicoli/Portifolio)
 Meu portfólio interativo em 3D, reunindo trajetória, stack e projetos.
 
 `React` `Three.js` `Vercel`
