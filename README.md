@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:14532d&height=230&section=header&text=Luis%20Gustavo%20Bonfim&fontSize=60&fontColor=86efac&fontAlignY=36&desc=Full-Stack%20%C2%B7%20IA%20e%20Dados%20%C2%B7%20IoT&descAlignY=58&descSize=20&descColor=d1fae5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:14532d&height=230&section=header&text=Luis%20Ciaramicoli&fontSize=60&fontColor=86efac&fontAlignY=36&desc=Full-Stack%20%C2%B7%20IA%20e%20Dados%20%C2%B7%20IoT&descAlignY=58&descSize=20&descColor=d1fae5" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=720&lines=RAG+com+Qdrant+%2B+LLMs+rodando+a+custo+zero;APIs+em+FastAPI+e+Node.js;Apps+mobile+com+Flutter+e+Kotlin;Top+20+Nacional+%E2%80%94+Samsung+Solve+for+Tomorrow;Ex-bolsista+FAPESP+%C2%B7+Sistemas+Inteligentes+%40+Fatec" alt="Typing SVG" />
 
